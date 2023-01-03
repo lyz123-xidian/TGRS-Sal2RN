@@ -9,7 +9,7 @@ Fig. 1: Framework of the proposed Sal2RN. It consists of two parts: multi-source
 
 Training and Test Process
 --
-1) Please prepare the training and test data as operated in the paper. The datasets are Houston2013, Trento, MUUFL Gulfport. The data is placed under the Data folder. The file format is tif
+1) Please prepare the training and test data as operated in the paper. The datasets are Houston2013, Trento, MUUFL Gulfport. The data is placed under the 'data' folder. The file format is tif.
 2) Run "demo.py" to to reproduce the Sal2RN results on Trento data set.
 
 We have successfully tested it on Ubuntu 18.04 with PyTorch 1.12.0.
