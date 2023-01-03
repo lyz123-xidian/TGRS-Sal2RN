@@ -1,6 +1,6 @@
 Sal2RN: A Spatial-Spectral Salient ReinforcementNetwork for Hyperspectral and LiDAR Data Fusion Classification, TGRS, 2022.
 ==
-[Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), Yuzhe Liu, [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), Kailiang Han and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
+[Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Yuzhe Liu](https://github.com/lyz123-xidian), [Rui song](https://scholar.google.com/citations?user=_SKooBYAAAAJ&hl=zh-CN), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), Kailiang Han and [Qian Du](https://scholar.google.com/citations?user=0OdKQoQAAAAJ&hl=zh-CN).
 ***
 Code for the paper: [Sal2RN: A Spatial-Spectral Salient ReinforcementNetwork for Hyperspectral and LiDAR Data Fusion Classification](https://ieeexplore.ieee.org/document/9998520).
 
