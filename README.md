@@ -4,6 +4,8 @@ Sal2RN: A Spatial-Spectral Salient ReinforcementNetwork for Hyperspectral and Li
 ***
 Code for the paper: [Sal2RN: A Spatial-Spectral Salient ReinforcementNetwork for Hyperspectral and LiDAR Data Fusion Classification](https://ieeexplore.ieee.org/document/9998520).
 
+Sal2RN: A Spatial-Spectral Salient Reinforcement Network for Hyperspectral and LiDAR Data Fusion Classification, IEEE Transactions on Geoscience and Remote Sensing, 2022, J. Li, Y. Liu, R. Song, Y. Li, K. Han and Q. Du, doi: 10.1109/TGRS.2022.3231930.[PDF](https://ieeexplore.ieee.org/document/9998520)[Code】(https://github.com/lyz123-xidian/TGRS-Sal2RN)
+
 <div align=center><img src="/Image/framework.png" width="80%" height="80%"></div>
 Fig. 1: Framework of the proposed Sal2RN. It consists of two parts: multi-source feature extraction network and multi-source fusion classification network. Feature extraction is divided into three branches, in which CIM and CSCM are the cross-layer interaction module and center spectrum correction module respectively. The Dense Block is a four-layer dense connection structure, which is applied for initial spatial feature extraction.
 
